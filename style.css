@@ -1,0 +1,21 @@
+#map {
+	height: 100%;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	position: absolute;
+	bottom: 10%;
+	left:15%;
+}
+
+h2 {
+	position: absolute;
+	bottom: 5%;
+	left:17%;
+}
